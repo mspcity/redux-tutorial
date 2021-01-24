@@ -4,5 +4,6 @@
 
 .items {
   border-bottom: #333;
-  
+  border-bottom: 1rem;
+  padding-bottom: 1rem;
 }
